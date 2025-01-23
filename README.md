@@ -1,4 +1,4 @@
-# Roku-Edge-Driver-4-SmartThings-App
+ Roku-Edge-Driver-4-SmartThings-App
 SmartThingsEdgeDrivers
 What is SmartThings Edge?
 SmartThings Edge is our new architecture for Hub Connected devices that uses Device Drivers to execute commands locally on SmartThings Hubs. Edge Drivers are Lua©-based and can be used for Hub Connected devices, including Zigbee, Z-Wave, and LAN protocols. Read more about SmartThings Edge in our public announcement.
