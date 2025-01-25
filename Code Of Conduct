@@ -8,9 +8,6 @@ Visit the SmartThings Edge Device Driver documentation on our developer document
 
 Be sure to check out the SmartThings Community for tutorials, code samples, and more.
 
-#Code of Conduct...
-The code of conduct for SmartThingsEdgeDrivers can be found in CODE_OF_CONDUCT.md.
-
 #How to Contribute
 Pull requests to this repo are intended to be from OEMs submitting pull requests for devices seeking Works With SmartThings (WWST) Certification, for maintaining existing certification, and for bug fixes to existing drivers. For more info on WWST certification and the submission process, visit our certification documentation.
 
