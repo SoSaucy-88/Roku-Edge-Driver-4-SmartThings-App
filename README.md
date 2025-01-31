@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a variety of projects and contrib
 ## 🚀 Projects
 Here are a few projects I've worked on:
 
-### Project 1: [Project Name]
+### Project 1: [Roku Into A Hub/Roku Edge Driver]
 - **Description:** A brief description of the project.
 - **Tech Stack:** [List of Technologies Used]
 - **Repository:** [Link to Repository]
